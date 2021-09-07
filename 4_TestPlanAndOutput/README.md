@@ -1,6 +1,6 @@
 #test Plan
-Test ID   	   Description    	Expected_Input   	Expected_Output 	Actual_Output	 Pass/Fail
-| ---|--- |--- |--- |--- |--- |
+|Test ID | Description | Expected_Input | Expected_Output | Actual_Output | Pass/Fail |
+| --- | --- | --- | --- | --- | --- |
 | TID_01 | Mark positions on board |	Player 1 enter a position in the board:1	| Updated board with X |	Updated board with X | PASS |
 | TID_02 | Mark positions on board |	Player 2 enter a position in the board:2	| Updated board with O |	Updated board with O | PASS |
 | TID_03 | Player1 three consecutive moves | Player 1, enter a position in the board: (last) | Player 1 win,Congradulations!!! | Player 1 win,Congradulations!!! | PASS |
