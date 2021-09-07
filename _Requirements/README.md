@@ -2,6 +2,7 @@
 Low level requirements:
 Tic-tac-toe is a game in which two players take turns in drawing either an ' O' or an ' X' in one square of a grid consisting of nine squares. The winner is the first player to get three of the same symbols in a row.
 High level requirements:
+
 •	Windows
 
 •	Mingw :  MinGW ("Minimalist GNU for Windows"), formerly mingw32, is a free and open source software development environment to create Microsoft Windows applications. MinGW can be run either on the native Microsoft Windows platform, cross-hosted on Linux (or other Unix), or "cross-native" on Cygwin.
