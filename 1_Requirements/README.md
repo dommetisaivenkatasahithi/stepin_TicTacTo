@@ -1,6 +1,7 @@
 ********** Tic-Tac-Toe **********
 Low level requirements:
 Tic-tac-toe is a game in which two players take turns in drawing either an ' O' or an ' X' in one square of a grid consisting of nine squares. The winner is the first player to get three of the same symbols in a row.
+a game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does.
 High level requirements:
 •	Windows
 
