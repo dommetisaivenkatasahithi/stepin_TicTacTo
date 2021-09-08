@@ -4,3 +4,4 @@
 ![code inspector](https://www.code-inspector.com/project/28289/status/svg)
 [![Git Inspector](https://github.com/dommetisaivenkatasahithi/stepin_TicTacToe/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/dommetisaivenkatasahithi/stepin_TicTacToe/actions/workflows/git%20inspector.yml)
 [![Git Inspector](https://github.com/dommetisaivenkatasahithi/stepin_TicTacToe/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/dommetisaivenkatasahithi/stepin_TicTacToe/actions/workflows/git%20inspector.yml)
+[![Static Code Analysis](https://github.com/dommetisaivenkatasahithi/stepin_TicTacToe/actions/workflows/static.yml/badge.svg)](https://github.com/dommetisaivenkatasahithi/stepin_TicTacToe/actions/workflows/static.yml)
