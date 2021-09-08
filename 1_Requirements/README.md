@@ -17,4 +17,4 @@
 
 
 ### •	Able to run in both Linux and Windows
-### •	Programming language: C Programming.
+### •	Programming language: C Programming
