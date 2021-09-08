@@ -10,8 +10,8 @@
  * @copyright Copyright (c) 2021
  * 
  */
-#include "stdio.h"
-#include "conio.h"
+#include<stdio.h>
+#include <stdlib.h>
 int checkwin(char *);
 void board(char *);
 int main();
