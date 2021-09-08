@@ -8,8 +8,8 @@
  * @copyright Copyright (c) 2021
  * 
  */
-#include"stdio.h"
-#include"TicTacToe.h"
+#include<stdio.h>
+#include<Tictactoe.h>
  int checkwin(char square2[])
 {
     if (square2[1] == square2[2] && square2[2] == square2[3])
